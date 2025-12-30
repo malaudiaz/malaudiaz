@@ -51,11 +51,9 @@ Un mercado de juguetes usados desarrollado con tecnologías modernas.
 ![Estadísticas de Migue](https://github-readme-stats.vercel.app/api?username=malaudiaz&show_icons=true&theme=radical&locale=es)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=malaudiaz&layout=compact&theme=radical&locale=es)
 
-> ⚠️ **Recuerda**: reemplaza `tu-usuario` en los enlaces de las estadísticas con tu **nombre de usuario real de GitHub**.
-
 ---
 
 ## 📬 ¿Quieres contactarme?
 
 Siempre estoy abierto a colaborar en proyectos interesantes o compartir experiencias.  
-Aunque no he incluido redes aquí, ¡un buen issue o pull request en uno de mis repos puede ser el inicio de una gran conexión! 😊
+
