@@ -38,8 +38,8 @@
 
 ## 🌟 Proyecto Destacado
 
-### 🏙️ [ToydaCity](https://github.com/malaudiaz/ToydaCity) *(reemplaza con el enlace real)*
-Una plataforma urbana/inteligente desarrollada con tecnologías modernas.  
+### 🏙️ [ToydaCity](https://github.com/malaudiaz/ToydaCity)
+Un mercado de juguetes usados desarrollado con tecnologías modernas.  
 **Stack**: Next.js, Clerk, Strape, Postgresql
 
 > *"La experiencia de décadas al servicio de la innovación."*
