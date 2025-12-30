@@ -21,7 +21,7 @@
 
 ## 🌟 Proyecto Destacado
 
-### 🏙️ [ToydaCity](https://github.com/tu-usuario/ToydaCity) *(reemplaza con el enlace real)*
+### 🏙️ [ToydaCity](https://github.com/malaudiaz/ToydaCity) *(reemplaza con el enlace real)*
 Una plataforma urbana/inteligente desarrollada con tecnologías modernas.  
 **Stack**: Next.js, Node.js, FastAPI, Python y más.
 
