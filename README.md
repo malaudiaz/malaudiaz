@@ -23,7 +23,7 @@
 
 ### 🏙️ [ToydaCity](https://github.com/malaudiaz/ToydaCity) *(reemplaza con el enlace real)*
 Una plataforma urbana/inteligente desarrollada con tecnologías modernas.  
-**Stack**: Next.js
+**Stack**: Next.js, Clerk, Strape, Postgresql
 
 > *"La experiencia de décadas al servicio de la innovación."*
 
@@ -31,8 +31,8 @@ Una plataforma urbana/inteligente desarrollada con tecnologías modernas.
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de Migue](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&locale=es)
+![Estadísticas de Migue](https://github-readme-stats.vercel.app/api?username=malaudiaz&show_icons=true&theme=radical&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=malaudiaz&layout=compact&theme=radical&locale=es)
 
 > ⚠️ **Recuerda**: reemplaza `tu-usuario` en los enlaces de las estadísticas con tu **nombre de usuario real de GitHub**.
 
